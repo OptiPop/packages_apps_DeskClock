@@ -26,9 +26,9 @@
     <color name="pressed_state_color">#33999999</color>
 
     <color name="black">#ff000000</color>
-    <color name="black_87p">#de000000</color>
-    <color name="black_54p">#8a000000</color>
-    <color name="black_16p">#28000000</color>
+    <color name="black_87p">#deFFFFFF</color>
+    <color name="black_54p">#8aFFFFFF</color>
+    <color name="black_16p">#28FFFFFF</color>
 
     <color name="white">#ffffffff</color>
     <color name="white_69p">#B1FFFFFF</color>
